@@ -21,5 +21,10 @@ distribución no planeada.
 
 Desarrollar e implementar una red social con sistema OLTP integrado para proveedores y sus organizaciones clientes (Restaurantes de comida mexicana) que permita una relación de asociación que facilite la ubicación de productos, manejo de transacciones seguras, revisión de ingredientes, control de cadena de suministros, rastreo de vehículos transportistas y comunicación entre ambas partes.
 
+# Equipo
 
+ - [Diego Bastardo](https://github.com/Diego532)
+ - [Gabriel Manrique](https://github.com/Manrique3)
+ - [Carlos Landaeta](https://github.com/calejandrolg99)
+ - [Antonio Badillo](https://github.com/abadillo)
 
