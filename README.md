@@ -21,6 +21,21 @@ distribución no planeada.
 
 Desarrollar e implementar una red social con sistema OLTP integrado para proveedores y sus organizaciones clientes (Restaurantes de comida mexicana) que permita una relación de asociación que facilite la ubicación de productos, manejo de transacciones seguras, revisión de ingredientes, control de cadena de suministros, rastreo de vehículos transportistas y comunicación entre ambas partes.
 
+## Objetivos especifico
+
+- Diseñar una base de datos de tipo OR que registre toda la información pertinente a transacciones, proveedores, ingredientes, ubicaciones, transporte y mensajería entre restaurantes y proveedores.
+- Diseñar frontend web para los restaurantes, que consiste en las vistas de mapas, transacciones, proveedores afiliados, catálogos, posts con productos ofrecidos por proveedores, además de chats entre el restaurante usuario y sus proveedores.
+- Diseñar interfaz gráfica móvil para los proveedores que consiste en las vistas de mapas, transacciones, clientes, productos, chats entre el proveedor usuario y sus clientes, y bandeja de entrada con solicitudes de compra.
+- Definir las normas y parámetros de los contratos inteligentes automatizados para las transacciones.
+- Diseñar e implementar el backend. Integrar la base de datos, el frontend, backend, y los contratos inteligentes en el sistema OLTP de la red social.
+
+## Planificación
+
+![planificacion](/Planificacion/planificacion.png)
+
+
+
+
 # Equipo
 
  - [Diego Bastardo](https://github.com/Diego532)
